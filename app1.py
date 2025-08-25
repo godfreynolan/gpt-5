@@ -30,3 +30,4 @@ response = client.chat.completions.create(
   verbosity="medium",
   reasoning_effort="medium"
 )
+print(response.choices[0].message.content)
