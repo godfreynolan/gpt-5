@@ -11,3 +11,11 @@ app2.py - Responses API GPT-5 call
 app3.py - Trip Planner
 
 app4.py - MCP call
+
+app5.py - Custom tool Python code generation
+
+app6.py - Custom tool CFG with Lark 
+
+app7.py - Custom tool CFG with Regex
+
+app8.py - Custom tool SQL code generation
